@@ -11,5 +11,9 @@ dataset.data1 has four columns:
 ## Fuctions
 multi_regression.m is the main script that performs multivariate linear regression
 by loading the dataset and making calls to functions in other files.
+
 1. Features normalization
-• In multi_regression.m the features are normalized and saved in norm_X:
+2. Computing the cost
+3. Gradient descent
+4. Prediction
+
